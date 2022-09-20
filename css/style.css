@@ -12,37 +12,49 @@
 -----------------*/
 .container{
     display: flex;
-    background-color: rgb(173,216,230);
+    background-color:  #255EE9;
     justify-content: center;
     padding: 16px;
 }
 
 .logo{
     width: 240px;
-    border: 1px dashed black;
-    background-color: rgb(218,165,32);
+    background-color:  #255EE9;
 }
 
 .main-nav{
     width: 725px;
-    border: 1px dashed black;
-    background-color: rgb(218,165,32);
-    
+    background-color:  #255EE9;
+}
+
+li{
+    display: inline-block;
+    color: white;
+    padding: 20px;
 }
 
 .login{
     width: 240px;
-    border: 1px dashed black;
-    background-color: rgb(218,165,32);
-    
+    background-color: #255EE9;
+}
+
+.btn{
+    width: 80px;
+    height: 40px;
+    border-radius: 50px;
+    margin-top: 10px;
+    border-collapse: collapse;
+    background-color: white;
 }
 
 .container-header-bottom{
-    background-color: rgb(0,0,139);
+    background-image: url(../img/jumbo.png);
+    background-size: contain;
     display: flex;
     justify-content: center;
     height: 505px;
     padding: 50px;
+    text-align: center;
 }
 
 .header-content{
@@ -145,4 +157,13 @@
     width: 67px;
     background-color: rgb(255,182,193);
     border: 1px dashed black;
+}
+
+
+/*-------------
+    TYPOGRAPHY
+---------------*/
+h1{
+    color: white;
+    
 }
