@@ -91,15 +91,11 @@ li{
 .container-blu{
     width: 720px;
     height: 505px;
-    border: 1px dashed black;
 }
-
-
 
 .container-rosa{
     width: 350px;
     height: 505px;
-    border: 1px dashed black;
 }
 
 .seconda{
@@ -121,8 +117,6 @@ li{
 .container-verde{
     width: 1200px;
     height: 900px;
-    background-color: rgb(34,139, 34);
-    border: 1px dashed black;
     text-align: center;
 }
 
@@ -137,15 +131,11 @@ li{
 .container-rosa-footer{
     width: 360px;
     height: 580px;
-    background-color: rgb(240,128,128);
-    border: 1px dashed black;
 }
 
 .container-azzurro-footer{
     width: 210px;
     height: 580px;
-    background-color: #20b2aa;
-    border: 1px dashed white;
 }
 
 .container-ultimo{
@@ -160,7 +150,6 @@ li{
 .last-container{
     width: 1200px;
     height: 80px;
-    background-color: rgb(127,255,212);
     display: flex;
     justify-content: space-between;
     align-items: center;
