@@ -33,6 +33,9 @@ li{
     padding: 20px;
 }
 
+#ul-footer{
+    display: block;
+}
 .login{
     width: 240px;
     background-color: #255EE9;
@@ -217,4 +220,9 @@ p{
 i{
     color: white;
     padding: 5px;
+}
+
+strong{
+    color: #7289DA;
+    font-size: 20px;
 }
