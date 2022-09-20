@@ -58,6 +58,13 @@ li{
     border: none;
 }
 
+#registrati-btn{
+    background-color: #7289DA;
+    border: none;
+    width: 150px;
+    margin-top: 0px;
+    margin-left: -100px;
+}
 .container-header-bottom{
     background-image: url(../img/jumbo.png);
     background-size: contain;
@@ -144,8 +151,7 @@ li{
 .container-ultimo{
     height: 110px;
     background-color: rgb(35,39,42);
-    border-top: 3px solid white;
-    border-bottom: 3px solid white;
+    border-top: 3px solid #7289DA;
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -164,8 +170,6 @@ li{
 .minidiv-footer{
     height: 30px;
     width: 67px;
-    background-color: rgb(255,182,193);
-    border: 1px dashed black;
 }
 
 .contenitore-paragrafo{
