@@ -210,4 +210,11 @@ p{
 #paragrafo-footer{
     color: white;
     display: inline-block;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+i{
+    color: white;
+    padding: 5px;
 }
