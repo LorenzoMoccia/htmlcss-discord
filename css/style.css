@@ -45,6 +45,14 @@ li{
     margin-top: 10px;
     border-collapse: collapse;
     background-color: white;
+    border: none;
+}
+
+#mac-btn{
+    width: 205px;
+    color: white;
+    background-color: #7289DA;
+    border: none;
 }
 
 .container-header-bottom{
@@ -105,6 +113,7 @@ li{
     height: 900px;
     background-color: rgb(34,139, 34);
     border: 1px dashed black;
+    text-align: center;
 }
 
 .contenitore-footer{
@@ -156,7 +165,10 @@ li{
     border: 1px dashed black;
 }
 
-
+.contenitore-paragrafo{
+    width: 875px;
+    margin: auto;
+}
 /*-------------
     TYPOGRAPHY
 ---------------*/
@@ -175,9 +187,11 @@ h1{
 
 h2{
     font-size: 40px;
+    color: #23272A;
 }
 
 p{
     font-size: 20px;
     margin-top: 30px;
+    color: #23272A;
 }
