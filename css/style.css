@@ -169,6 +169,13 @@ li{
     width: 875px;
     margin: auto;
 }
+
+#ita{
+    width: 26px;
+    height: 17px;
+    margin-top: 30px;
+    display: inline-block;
+}
 /*-------------
     TYPOGRAPHY
 ---------------*/
@@ -194,4 +201,13 @@ p{
     font-size: 20px;
     margin-top: 30px;
     color: #23272A;
+}
+
+#footer-h2{
+    color: #7289DA;
+}
+
+#paragrafo-footer{
+    color: white;
+    display: inline-block;
 }
