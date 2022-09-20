@@ -5,7 +5,6 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    font-family: 'Fredoka', sans-serif;
 }
 
 /*----------------
@@ -74,14 +73,14 @@ li{
 .container-blu{
     width: 720px;
     height: 505px;
-    background-color: rgb(30,144,255);
     border: 1px dashed black;
 }
 
+
+
 .container-rosa{
-    width: 480px;
+    width: 350px;
     height: 505px;
-    background-color: rgb(255,192,203);
     border: 1px dashed black;
 }
 
@@ -164,11 +163,21 @@ li{
 h1{
     color: white;
     font-size: 50px;
+    font-family: 'Fredoka', sans-serif;
     
 }
 
-p{
+#primo-paragrafo{
     color: white;
     margin-top: 20px;
     font-size: 25px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+    margin-top: 30px;
 }
