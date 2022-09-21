@@ -67,7 +67,8 @@ li{
 }
 .container-header-bottom{
     background-image: url(../img/jumbo.png);
-    background-size: contain;
+    background-size: cover;
+    background-position: center;
     display: flex;
     justify-content: center;
     height: 505px;
